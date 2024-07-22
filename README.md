@@ -21,9 +21,9 @@ DL_Num裡面主要是介紹如何建立數值與訊號上，機器學習與深�
 這幾個算法非常的適合用於機器健康度維護(PHM)。　　
 
 4.Signal and Audio這邊目前只先放了一個遷移式學習透過deepnetworkdesigner建立音訊模型的範例，
-未來會擺入更多的應用。　　　
-　　
-　　
+未來會擺入更多的應用。  
+  
+
 1.In Machine Learning, two apps are introduced: Classification Learner and Regression Learner. These two low-code apps allow for quick model building and visualization.  
 
 2.In Deep Learning, it is divided into several different sections: Deep Network Designer, LSTM, 1D CNN, GRU, and GCN. Initially, it introduces how to use the Deep Network Designer app to build deep learning models without writing code. The subsequent chapters introduce deep learning models used in different fields and applications.  
