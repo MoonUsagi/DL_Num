@@ -1,0 +1,86 @@
+[
+  {
+    "directory": "D:\\Fred\\MATLAB_Library(Github)\\DL_Num\\example\\3.異常偵測\\1.ML_Anomaly\\codegen\\mex\\myIsanomaly",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /utf-8 /I \".\" /I \"D:\\Fred\\MATLAB_Library(Github)\\DL_Num\\example\\3.異常偵測\\1.ML_Anomaly\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2024a\\extern\\include\" /I \".\" -DMODEL=myIsanomaly_mex /openmp /wd4101  myIsanomaly_data.c /Fobuild\\win64\\myIsanomaly_data.obj",
+    "file": "myIsanomaly_data.c",
+    "output": "build/win64/myIsanomaly_data.obj"
+  },
+  {
+    "directory": "D:\\Fred\\MATLAB_Library(Github)\\DL_Num\\example\\3.異常偵測\\1.ML_Anomaly\\codegen\\mex\\myIsanomaly",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /utf-8 /I \".\" /I \"D:\\Fred\\MATLAB_Library(Github)\\DL_Num\\example\\3.異常偵測\\1.ML_Anomaly\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2024a\\extern\\include\" /I \".\" -DMODEL=myIsanomaly_mex /openmp /wd4101  rt_nonfinite.c /Fobuild\\win64\\rt_nonfinite.obj",
+    "file": "rt_nonfinite.c",
+    "output": "build/win64/rt_nonfinite.obj"
+  },
+  {
+    "directory": "D:\\Fred\\MATLAB_Library(Github)\\DL_Num\\example\\3.異常偵測\\1.ML_Anomaly\\codegen\\mex\\myIsanomaly",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /utf-8 /I \".\" /I \"D:\\Fred\\MATLAB_Library(Github)\\DL_Num\\example\\3.異常偵測\\1.ML_Anomaly\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2024a\\extern\\include\" /I \".\" -DMODEL=myIsanomaly_mex /openmp /wd4101  myIsanomaly_initialize.c /Fobuild\\win64\\myIsanomaly_initialize.obj",
+    "file": "myIsanomaly_initialize.c",
+    "output": "build/win64/myIsanomaly_initialize.obj"
+  },
+  {
+    "directory": "D:\\Fred\\MATLAB_Library(Github)\\DL_Num\\example\\3.異常偵測\\1.ML_Anomaly\\codegen\\mex\\myIsanomaly",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /utf-8 /I \".\" /I \"D:\\Fred\\MATLAB_Library(Github)\\DL_Num\\example\\3.異常偵測\\1.ML_Anomaly\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2024a\\extern\\include\" /I \".\" -DMODEL=myIsanomaly_mex /openmp /wd4101  myIsanomaly_terminate.c /Fobuild\\win64\\myIsanomaly_terminate.obj",
+    "file": "myIsanomaly_terminate.c",
+    "output": "build/win64/myIsanomaly_terminate.obj"
+  },
+  {
+    "directory": "D:\\Fred\\MATLAB_Library(Github)\\DL_Num\\example\\3.異常偵測\\1.ML_Anomaly\\codegen\\mex\\myIsanomaly",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /utf-8 /I \".\" /I \"D:\\Fred\\MATLAB_Library(Github)\\DL_Num\\example\\3.異常偵測\\1.ML_Anomaly\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2024a\\extern\\include\" /I \".\" -DMODEL=myIsanomaly_mex /openmp /wd4101  myIsanomaly.c /Fobuild\\win64\\myIsanomaly.obj",
+    "file": "myIsanomaly.c",
+    "output": "build/win64/myIsanomaly.obj"
+  },
+  {
+    "directory": "D:\\Fred\\MATLAB_Library(Github)\\DL_Num\\example\\3.異常偵測\\1.ML_Anomaly\\codegen\\mex\\myIsanomaly",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /utf-8 /I \".\" /I \"D:\\Fred\\MATLAB_Library(Github)\\DL_Num\\example\\3.異常偵測\\1.ML_Anomaly\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2024a\\extern\\include\" /I \".\" -DMODEL=myIsanomaly_mex /openmp /wd4101  IsolationForest.c /Fobuild\\win64\\IsolationForest.obj",
+    "file": "IsolationForest.c",
+    "output": "build/win64/IsolationForest.obj"
+  },
+  {
+    "directory": "D:\\Fred\\MATLAB_Library(Github)\\DL_Num\\example\\3.異常偵測\\1.ML_Anomaly\\codegen\\mex\\myIsanomaly",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /utf-8 /I \".\" /I \"D:\\Fred\\MATLAB_Library(Github)\\DL_Num\\example\\3.異常偵測\\1.ML_Anomaly\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2024a\\extern\\include\" /I \".\" -DMODEL=myIsanomaly_mex /openmp /wd4101  cfactor.c /Fobuild\\win64\\cfactor.obj",
+    "file": "cfactor.c",
+    "output": "build/win64/cfactor.obj"
+  },
+  {
+    "directory": "D:\\Fred\\MATLAB_Library(Github)\\DL_Num\\example\\3.異常偵測\\1.ML_Anomaly\\codegen\\mex\\myIsanomaly",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /utf-8 /I \".\" /I \"D:\\Fred\\MATLAB_Library(Github)\\DL_Num\\example\\3.異常偵測\\1.ML_Anomaly\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2024a\\extern\\include\" /I \".\" -DMODEL=myIsanomaly_mex /openmp /wd4101  interface\\_coder_myIsanomaly_api.c /Fobuild\\win64\\_coder_myIsanomaly_api.obj",
+    "file": "interface/_coder_myIsanomaly_api.c",
+    "output": "build/win64/_coder_myIsanomaly_api.obj"
+  },
+  {
+    "directory": "D:\\Fred\\MATLAB_Library(Github)\\DL_Num\\example\\3.異常偵測\\1.ML_Anomaly\\codegen\\mex\\myIsanomaly",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /utf-8 /I \".\" /I \"D:\\Fred\\MATLAB_Library(Github)\\DL_Num\\example\\3.異常偵測\\1.ML_Anomaly\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2024a\\extern\\include\" /I \".\" -DMODEL=myIsanomaly_mex /openmp /wd4101  interface\\_coder_myIsanomaly_mex.c /Fobuild\\win64\\_coder_myIsanomaly_mex.obj",
+    "file": "interface/_coder_myIsanomaly_mex.c",
+    "output": "build/win64/_coder_myIsanomaly_mex.obj"
+  },
+  {
+    "directory": "D:\\Fred\\MATLAB_Library(Github)\\DL_Num\\example\\3.異常偵測\\1.ML_Anomaly\\codegen\\mex\\myIsanomaly",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /utf-8 /I \".\" /I \"D:\\Fred\\MATLAB_Library(Github)\\DL_Num\\example\\3.異常偵測\\1.ML_Anomaly\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2024a\\extern\\include\" /I \".\" -DMODEL=myIsanomaly_mex /openmp /wd4101  IsolationTree.c /Fobuild\\win64\\IsolationTree.obj",
+    "file": "IsolationTree.c",
+    "output": "build/win64/IsolationTree.obj"
+  },
+  {
+    "directory": "D:\\Fred\\MATLAB_Library(Github)\\DL_Num\\example\\3.異常偵測\\1.ML_Anomaly\\codegen\\mex\\myIsanomaly",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /utf-8 /I \".\" /I \"D:\\Fred\\MATLAB_Library(Github)\\DL_Num\\example\\3.異常偵測\\1.ML_Anomaly\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2024a\\extern\\include\" /I \".\" -DMODEL=myIsanomaly_mex /openmp /wd4101  eml_int_forloop_overflow_check.c /Fobuild\\win64\\eml_int_forloop_overflow_check.obj",
+    "file": "eml_int_forloop_overflow_check.c",
+    "output": "build/win64/eml_int_forloop_overflow_check.obj"
+  },
+  {
+    "directory": "D:\\Fred\\MATLAB_Library(Github)\\DL_Num\\example\\3.異常偵測\\1.ML_Anomaly\\codegen\\mex\\myIsanomaly",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /utf-8 /I \".\" /I \"D:\\Fred\\MATLAB_Library(Github)\\DL_Num\\example\\3.異常偵測\\1.ML_Anomaly\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2024a\\extern\\include\" /I \".\" -DMODEL=myIsanomaly_mex /openmp /wd4101  myIsanomaly_emxutil.c /Fobuild\\win64\\myIsanomaly_emxutil.obj",
+    "file": "myIsanomaly_emxutil.c",
+    "output": "build/win64/myIsanomaly_emxutil.obj"
+  },
+  {
+    "directory": "D:\\Fred\\MATLAB_Library(Github)\\DL_Num\\example\\3.異常偵測\\1.ML_Anomaly\\codegen\\mex\\myIsanomaly",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /utf-8 /I \".\" /I \"D:\\Fred\\MATLAB_Library(Github)\\DL_Num\\example\\3.異常偵測\\1.ML_Anomaly\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2024a\\extern\\include\" /I \".\" -DMODEL=myIsanomaly_mex /openmp /wd4101  interface\\_coder_myIsanomaly_info.c /Fobuild\\win64\\_coder_myIsanomaly_info.obj",
+    "file": "interface/_coder_myIsanomaly_info.c",
+    "output": "build/win64/_coder_myIsanomaly_info.obj"
+  },
+  {
+    "directory": "D:\\Fred\\MATLAB_Library(Github)\\DL_Num\\example\\3.異常偵測\\1.ML_Anomaly\\codegen\\mex\\myIsanomaly",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /utf-8 /I \".\" /I \"D:\\Fred\\MATLAB_Library(Github)\\DL_Num\\example\\3.異常偵測\\1.ML_Anomaly\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2024a\\extern\\include\" /I \".\" -DMODEL=myIsanomaly_mex /openmp /wd4101  \"C:\\Program Files\\MATLAB\\R2024a\\extern\\version\\c_mexapi_version.c\" /Fobuild\\win64\\c_mexapi_version.obj",
+    "file": "C:/Program Files/MATLAB/R2024a/extern/version/c_mexapi_version.c",
+    "output": "build/win64/c_mexapi_version.obj"
+  }
+]
